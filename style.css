@@ -1,0 +1,30 @@
+body{
+    font-family: 'Damion', cursive;
+    background-color: #ff81cf;
+}
+li img
+{
+	width: 200px;
+	border-radius: 20px;
+}
+span
+{
+	color: red;
+	font-size: 18px;
+}
+.text_images_and_result
+{
+	background: #ff9ec6;
+	padding: 30px;
+	border-radius: 20px;
+	width: 50%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.mini-result{
+    text-align: center;
+	background: #dedddd;
+	border-radius: 20px;
+	padding: 10px;
+    font-size: 100px;
+}
